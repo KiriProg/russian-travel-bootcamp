@@ -1,7 +1,6 @@
 .intro {
     max-width: 984px;
     width: calc(100% - 48px * 2);
-    max-height: min-content;
     margin: 0 auto 92px;
 }
 

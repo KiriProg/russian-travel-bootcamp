@@ -1,5 +1,4 @@
 .header {
-    height: 52px;
     max-width: 1184px;
     width: calc(100% - 48px * 2);
     margin: 28px auto 56px;
@@ -9,14 +8,12 @@
 
 @media screen and (max-width: 1024px) {
     .header {
-        height: 48px;
         max-width: 928px;
     }
 }
 
 @media screen and (max-width: 320px) {
     .header {
-        height: 42px;
         width: calc(100% - 16px * 2);
         margin: 16px auto 48px;
     }

@@ -1,6 +1,6 @@
 .lead__caption {
     margin: 0;
-    font-weight: 300;
+    font-family: "Inter Regular", serif;
     line-height: 14px;
     font-size: 10px;
     letter-spacing: calc(0.15 * 14px);
