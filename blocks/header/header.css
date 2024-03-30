@@ -12,6 +12,13 @@
     }
 }
 
+@media screen and (max-width: 1024px) {
+    .header {
+        width: calc(100% - 24px * 2);
+        margin-bottom: 48px;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .header {
         width: calc(100% - 16px * 2);

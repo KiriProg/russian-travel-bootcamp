@@ -4,14 +4,14 @@
     line-height: 36px;
     font-family: "Inter Regular", serif;
     text-align: center;
-    margin: 32px auto 64px;
+    margin: 32px auto 0;
 }
 
 @media screen and (max-width: 767px) {
     .lead__subtitle {
         font-size: 24px;
         line-height: 30px;
-        margin: 16px auto 40px;
+        margin: 16px auto 0;
     }
 }
 

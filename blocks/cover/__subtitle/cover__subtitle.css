@@ -10,6 +10,8 @@
     text-align: center;
     align-self: start;
     justify-self: center;
+    position: relative;
+    top: 58px;
 }
 
 @media screen and (max-width: 525px) {
@@ -21,6 +23,7 @@
 
 @media screen and (max-width: 320px) {
     .cover__subtitle {
+        top: 14px;
         font-size: 14px;
         line-height: 16px;
     }

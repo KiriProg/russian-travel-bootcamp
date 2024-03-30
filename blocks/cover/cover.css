@@ -1,6 +1,6 @@
 .cover {
     max-width: 1184px;
-    margin: 92px auto 92px;
+    margin: 90px auto 88px;
 }
 
 .cover:hover .cover__image {
@@ -9,6 +9,6 @@
 
 @media screen and (max-width: 320px) {
     .cover {
-        margin: 66px auto 64px;
+        margin: 62px auto 64px;
     }
 }
