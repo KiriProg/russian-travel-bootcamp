@@ -1,0 +1,12 @@
+.place__website {
+    align-self: end;
+    grid-area: link;
+}
+
+@media screen and (max-width: 767px) {
+    .place__website {
+        align-self: start;
+        order: 1;
+        margin: 0 16px;
+    }
+}

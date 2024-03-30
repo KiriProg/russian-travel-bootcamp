@@ -1,0 +1,13 @@
+.place__image {
+    background-size: cover;
+    width: 100%;
+    grid-area: image;
+}
+
+@media screen and (max-width: 767px) {
+    .place__image {
+        background-size: cover;
+        width: 100%;
+        order: 2;
+    }
+}
