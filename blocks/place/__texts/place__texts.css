@@ -7,8 +7,6 @@
 
 @media screen and (max-width: 767px) {
     .place__texts {
-        display: flex;
-        flex-direction: column;
         row-gap: 25px;
         order: 3;
         margin: 0 16px;

@@ -11,10 +11,6 @@
     .header {
         height: 48px;
         max-width: 928px;
-        width: calc(100% - 48px * 2);
-        margin: 28px auto 56px;
-        display: flex;
-        justify-content: space-between;
     }
 }
 
@@ -23,7 +19,5 @@
         height: 42px;
         width: calc(100% - 16px * 2);
         margin: 16px auto 48px;
-        display: flex;
-        justify-content: space-between;
     }
 }

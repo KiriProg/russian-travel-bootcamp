@@ -16,14 +16,6 @@
     .cover__subtitle {
         font-size: 16px;
         line-height: 18px;
-        font-weight: normal;
-        grid-row: 2/2;
-        grid-column: 1;
-        color: white;
-        margin: 0;
-        text-align: center;
-        align-self: start;
-        justify-self: center;
     }
 }
 
@@ -31,13 +23,5 @@
     .cover__subtitle {
         font-size: 14px;
         line-height: 16px;
-        font-weight: normal;
-        grid-row: 2/2;
-        grid-column: 1;
-        color: white;
-        margin: 0;
-        text-align: center;
-        align-self: start;
-        justify-self: center;
     }
 }
